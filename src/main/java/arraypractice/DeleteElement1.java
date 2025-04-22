@@ -20,7 +20,7 @@ public class DeleteElement1
         }
         for(int i = 0; i < arr.length - 1; i++)
         {
-            System.out.print(arr[i] + " THis is for the git test");
+            System.out.print(arr[i] + "  ");
         }
     }
 }
